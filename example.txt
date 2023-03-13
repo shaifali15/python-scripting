@@ -1,0 +1,4 @@
+Hello, world!
+This is a sample text file.
+It contains many lines of text.
+We will use awk, sed, and grep to process this file.
